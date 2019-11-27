@@ -1,0 +1,23 @@
+{
+  "name": "quill-slash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajshivam/quill-slash.git"
+  },
+  "author": "rajshivam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rajshivam/quill-slash/issues"
+  },
+  "homepage": "https://github.com/rajshivam/quill-slash#readme",
+  "dependencies": {
+    "quill": "^1.3.7",
+    "slash-command": "0.0.52"
+  }
+}
